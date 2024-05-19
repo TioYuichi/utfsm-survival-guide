@@ -20,7 +20,7 @@ El presente documento es un proyecto personal desarrollado en busca de orientar 
 </div><br>
 
 Bienvenidos a la universidad. Probablemente hayan pasado por un largo y tedioso proceso para poder llegar hasta acá, pero lamentamos decirles que lo anterior fue solo el cierre de un ciclo. Se viene una nueva etapa, nuevos desafíos y nuevas experiencias de todo tipo (uff).
-Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzando (eeeeee). Al principio será difícil, pero de uds depende que logren ∫integrarse y pasarla bien durante su vida universitaria.
+Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzando (eeeeee). Al principio será difícil, pero de uds depende que logren ∫integrarse y pasarla bien durante su vida universitaria. hola
 
 <div style="text-align: right;">
 	Bienvenidos sansanos y prepare your anus
