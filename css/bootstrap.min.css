@@ -4145,7 +4145,12 @@
   }
   
   .navbar {
+<<<<<<< Updated upstream
     position: relative;
+=======
+    position: fixed;
+    top: 0;
+>>>>>>> Stashed changes
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
