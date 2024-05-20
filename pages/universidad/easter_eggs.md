@@ -20,16 +20,12 @@ folder: universidad
  
 Las leyendas hablan de un ramo llamado ARI, del cual proviene la peor nota conocida hasta ahora: -3 (y de gente que estaba por titularse y sólo les faltaba aprobarlo :'c )
 
-* Uno se puede quedar a dormir en la U. Bastante útil para cuando tienes que terminar un proyecto en menos de 24 horas
+* Uno se puede quedar a dormir en la U. Bastante útil para cuando tienes que terminar un proyecto en menos de 24 horas, o cuando vives a la rechucha y tienes un certamen mañana en la mañana.
 
 * Las maldiciones de informática:
   
-  * Toda generación tiene al menos un "niño símbolo"
+  * Toda generación tiene al menos un "niño símbolo" (hay veces que spawnean varios)
   * En promedio se pasa una mate y una física por año
-
-* No hay viernes si no hay doggos en el muero de feusam
-  
-  * Ahora el único recuerdo vivo de esto es [doggo_sempai][doggo]
 
 * NO PASARÁS JUGANDO (larga vida a lord gaben y a las steam sales)
 
@@ -58,7 +54,7 @@ Las leyendas hablan de un ramo llamado ARI, del cual proviene la peor nota conoc
 
 * Si te tomas la u te llevarán a comisión, pero comisión nunca llegará y terminarán hablando todos de ti y dedicante cartles que en ningunta parte mencionan por qué estás en esta situación
 
-* Los globales son un salvavidas de plomo, evítalos a toda costa
+* Los globales son un salvavidas de plomo, evítalos a toda costa, pero si ya te vas a uno, a darle con todo ctm (hubo un caso donde un estudiante salvó el semestre con 3 globales en una semana, puta leyenda)
 
   * BD se apueba con >= 82 en el global, MAT023 con >= 75 en el car
 
@@ -73,11 +69,5 @@ Las leyendas hablan de un ramo llamado ARI, del cual proviene la peor nota conoc
 * Si hay corrección de cualquier cosa, asiste. No quieres repetir un ramo por dos puntos.
 
 * Si hay aires de paro, salva tu primer certamen, ~~si se alarga el paro cierran los ramos con las notas que están~~ mentira 2019-1 después del paro y la renuncia de feusam: "Bueno chicos, no firmaremos nada y el semstre termina en 2 semanas. Buena suerte!"
-
-* **Teorema antiguo del Año Par**: No hay paros en los años par (para demostración del teorema leer paper "Paro y par, la contra polaridad parcial". Fuente: [Data Expunged])
-
-  * En el 2018 la teoría queda refutada, debido a que hubo movilizaciones por las causas feministas. (Teorema nuevo del Semestre Par?)
-
-[doggo]: https://www.facebook.com/meme.senpai.uwu
 
 {% include links.html %}

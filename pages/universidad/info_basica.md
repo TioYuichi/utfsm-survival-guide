@@ -41,22 +41,17 @@ Si por ejemplo quisieras redireccionar los correos de @alumnos.inf.utfsm.cl a tu
 ### Plataformas administradoras de ramos
 A lo largo de la carrera al momento de tomar ramos estos aparecen automática o manualmente inscritos en plataformas online de administración, donde se publican anuncios, documentos, ayudantías, notas, encuestas, etc. Son la fuente por defecto de la información vista en clases. Dependiendo del tipo de ramo es en qué sitio aparecerá:
 * **Aula.** Para todos los ramos, pero usado principalmente por los de **plan común y humanísticos**. (actualización en 2020-2)
-    * [Aula antigua][aula_antigua]
-    * [Aula nueva][aula_nueva]
+    * [Aula][aula_nueva]
 
-* [**Moodle.**][moodle_inf] Para ramos del departamento de **informática**. (morirá el 2021)
+* [**Moodle.**][moodle_inf] Para ramos del departamento de **informática**.
 
 El contenido presente en la sección de cada ramo depende del material que suba cada profesor, por lo que algunos ramos tendrán todo muy bien organizado y otros puede que estén vacíos. Aula por defecto siempre crea y automatricula los cursos que uno tiene inscritos.
 
 
 <div class="text-left">
-    <img src="images/universidad/aula_antigua.png" alt="Aula antigua" width="307px" height="149">
-    <img src="images/universidad/aula_nueva.PNG" alt="Aula nueva" width="307px" height="149" style="margin-left:20%;">
-</div><br>
-
-<div class="text-center">
+    <img src="images/universidad/aula_nueva.PNG" alt="Aula nueva" width="307px" height="149">
     <img src="images/universidad/moodle_inf.png" alt="Moodle informática" width="307px" height="149">
-</div>
+</div><br>
 
 <br><br>
 
@@ -75,8 +70,6 @@ Para mejorar la calidad de nuestra carrera el departamento, en conjunto con la d
 ### Evaluación en encuesta docente
 
 Al término de cada semestre, bajo la responsabilidad de cada alumno, se podrá evaluar el desempeño académico de cada profesor del DI vía SIGA y *moodle*. Los resultados de estas encuestas son analizados con el objetivo de ir ayudando a mejorar las “actividades en el aula” y la calidad de los contenidos entregados. Asimismo con las ayudantías. **Es importante que rellenen la encuesta de la manera más completa y correcta posible, ya que a nuestro departamento le importa el feedback de sus alumnos.**
-
-En el caso de moodle hay 3 encuestas por semestre, una por cada ramo informático a inicio, medio y fin de semestre.
 
 En el caso de SIGA es una encuesta por cada ramo al final de semestre **y es necesario acceder a ella (Responder / Omitir) para poder tomar ramos.**
 
@@ -106,6 +99,8 @@ José Luis Martí es un profesor sumamente simpático, pero a la vez muy estrict
 
 ### Prioridad Académica (PA)
 
+Actualmente, después de la vuelta de pandemia (2022 en adelante), el sistema de Prioridad académica quedó obsoleto para la mayoría de funciones, se ocupa para la selección de ayudantes, pero más allá de eso no se toca mucho, aún así, antiguamente funcionaba como se explicará ahora.
+
 La prioridad académica es un indicador cuantitativo que mide el avance general de los estudios del estudiante (algo así como un promedio de todas tus notas desde que entraste a la carrera), se calcula mediante la siguiente fórmula:
 
 <div class = "text-center">
@@ -121,7 +116,7 @@ La prioridad académica es un indicador cuantitativo que mide el avance general 
 * S: Número de semestres activo desde el ingreso USM
 * FAE: Factor Actividad Extracurricular
 
-Es el medio webeo, pero existe un software ancestral que te ayuda a calcularlo llamado [priorix][priorix], desarrollado por Don Federico Santa María junto a Moreira después de un carrete con Ric, junto con la creación del Omnitrix y el grupo Feusameme.
+Es el medio webeo, pero existe un software ancestral que te ayuda a calcularlo llamado [priorix][priorix], desarrollado por Don Federico Santa María junto a Moreira después de un carrete con Sans, junto con la creación del Omnitrix y la página de Insta Momazos Piazze.
 
 Desde 2019-1 se puede calcular la prioridad de forma interactiva desde la [Malla Interactiva Informática][malla_info] (y de paso deprimirte al ver la malla y los ramos que ~~te echaste~~ pasaste).
 
@@ -178,6 +173,8 @@ Por acuerdo del Consejo Académico N°343, Acuerdo N°783, N°3, de Junio de 201
 
 ### Inscripción de asignaturas libres
 
+A mediados del primer semestre, se les pide a los alumnos realizar un test de niveleación de Inglés, el cual en caso de sacar 7+, te eximes de hacer los ramos de inglés, y en su defecto, deberás inscribir libres, hay gente que recomienda "echarse" este test de adrede para así farmearse los ramos de inglés y ahorrarse algunos libres, aunque queda a disposición tuya.
+
 A partir del segundo año se pueden incorporar a los cursos los ramos libres, que consisten en una materia o actividad que pueden ser del departamento, externas, talleres de desarrollo integral o proyectos personales (es asignatura libre por “libre elección”). Se puede solicitar mayor información a la secretaria del DI o consultando con el [Jefe de Carrera][jefe_de_carrera].
 
 ### En caso de deuda financiera
@@ -218,9 +215,9 @@ La mayoría te aconsejará llegar hasta consejería académica, y es puesto que 
 ### Tips y sugerencias por parte del DI
 
 Mantenerse informado, especialmente a través de:
-* Correos institucionales (@sansano, @usm) y de informática (@alumnos.inf).
+* Correos institucionales (@sansano.usm.cl, @usm.cl) y de informática (@alumnos.inf.utfsm.cl).
 * Moodle y Aula (Plataformas de gestión de asignaturas).
-* Centro de estudiantes (CEEINF), la federación de estudiantes (FEUSAM) y otros grupos de interés (consultar con sus compañeros).
+* Centro de estudiantes de informática (CEEINF), la federación de estudiantes (FEUSAM) y otros grupos de interés (consultar con sus compañeros).
 
 ### La malla antigua y la malla nueva
 
@@ -259,8 +256,8 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 ## Instalaciones y otros sitios
 **LDS**
-* Es la tierra de los informáticos, la info-cueva, la oficina del rafa y el punto de encuentro por defecto de varios alumnos de la carrera (al menos en invierno, por el aire acondicionado).
-* Cuenta con varios computadores (que no usan windows), pero la mayoría funciona a medias o se apaga repentinamente. **No es recomendable usarlos para tareas o trabajos importantes** a menos que sepas cuál funciona y cuál no.
+* Es la tierra de los informáticos, la info-cueva, la bati-cueva, el LDS, en fin, el punto de encuentro por defecto de varios alumnos de la carrera (al menos en invierno, por el aire acondicionado).
+* Cuenta con varios computadores (Con Ubuntu), pero la mayoría funciona a medias o se apaga repentinamente o se te queda sin espacio en el disco. **No es recomendable usarlos para tareas o trabajos importantes** a menos que sepas cuál funciona y cuál no.
     * Ya arreglaron esto, ahora no se apagan repentinamente. Simplemente no prenden.
         * **I n n o v a t i o n**
 * La mayoría (y en especial los alumnos nuevos) al ver computadores que no funcionan tiende a desenchufar las pantallas y los cables de red de estos computadores para usarlos en sus notebooks. **No lo hagan. Esto desconfigura la red interna y solo causa más fallas aún.** Sean responsables como los adultos que son y por favor no se excuse con el típico *“pero si siempre fallan, qué importa”.*
@@ -274,7 +271,7 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 * Por favor no cole a sus amigos de otras carreras (en serio, no se agilen porfa), si invita a alguien no abuse.
 * El LDS tiene sillones y una mesa en el ventanal y les voy a sacar la xuxa ~~a cachas~~ si la usan :D :D :D
     * Tenía\*: Se rompieron los sillones :NotLikeThis:
-* La red wifi “DI” es una inteligencia artificial tsundere y funciona cuando quiere. Aunque cualquiera sería “tsundere” si 150 computadores le hacen bukkake para jugar lol o subir dank memes…
+* La red wifi “DI” es una inteligencia artificial tsundere y funciona cuando quiere. Aunque cualquiera sería “tsundere” si 150 computadores le hacen bukkake para jugar lol o subir shitpost…
 * Banearon a alguien por tener una botella vacía sobre una de las islas, asegúrate de leer el reglamento del LDS para que no te pase.
 * Hay unas mesitas donde tenemos un mercadito de snacks, no sea weon y no se robe las cosas :/
 
@@ -288,8 +285,9 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 **Lugares de comida**
 * El Master is love, El Master is life (local externo al lado del INACAP). ~~ignorando los ratones~~
 * Para almorzar en el casino es recomendable comer en el bloque 7-8, ya que en ese horario hay muchos alumnos que se retiran a sus clases del 9-10. Si puede, úselo. De lo contrario, traten de asegurarse yendo a eso de las 12:40, para evitar la congestión que se produce con el final del bloque 5-6.
-* Hay dos quioscos kioskos quiosqos en la U: el Marley Coffee y el Diaz Sanos. Si tienes plata (compra mínima de luca doscientos si pagas con tarjeta) o estás muy apurado anda al primero, y si quieres estar comiéndote un janrol tranqui sentao de pana y ver la tele puedes ir al segundo.
-* Estaba el café La Sede que era la mejor y más bella cafetería del mundo con muchos corazones, pero en el 2019 se fueron RIP y ahora en el último piso se puso otra.
+* Hay dos quioscos kioskos quiosqos en la U: el Nury's y el Diaz Sanos. Si tienes plata (compra mínima de luca doscientos si pagas con tarjeta) o estás muy apurado anda al primero, y si quieres estar comiéndote un janrol tranqui sentao de pana y ver la tele puedes ir al segundo.
+    * Hay gente a la que le han salido empanadas malas tanto en el Diaz Sanos como en el Nury's, así que anda donde se te cante el pepino nomás.
+* Estaba el café La Sede que era la mejor y más bella cafetería del mundo con muchos corazones, pero en el 2019 se fueron RIP y ahora en el 4to piso del edificio F se puso otra (es god).
 
 
 **CIAC**
@@ -303,7 +301,8 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 **NOAC**
 * Es el pasillo con ventanales debajo del CIAC (entienden? CI-AC, NO-AC...noo por favor todavia no termino la carreraaa)
 * Tiene dos ambientes (como en la disco) uno es el pasillo con microondas donde puedes comer, estudiar y jugar piola y el otro es un pasillo más estrecho con sillas altas donde puedes estudiar y jugar piola, pero con menos espacio
-* Antes se podían comprar snacks, hasta que la nación de los guardias atacó y ahora parece que murió :(
+* La gente aquí deja comida o distintas cositas para vender, no sea weon y no robe, respete.
+* Se puede pasar la noche acá, mientras no te moleste dormir encima de una mesa.
 
 
 **Librería Don Fede**
@@ -313,33 +312,37 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 
 **Laboratorios**
-* Al final del pasillo de las B a la izquierda llegarás al de química. Si bajas las escaleras llegas al de física.
+* Al final del pasillo de las B a la izquierda llegarás al de química.
+* Los de física están en el edificio KS, que es el subterráneo del K
 * Llega con pantalón y zapatos/zapatillas. Nunca falta el wn que llega con short y chalas que lo mandan pa la casa. Un support que te tradee sus pantalones ~~con resultados sexuales~~ también sirve.
 
 
 **Gimnasio y canchas**
 * Debajo del gimnasio hay máquinas para un verano sin polera. Tienes que ir a inscribirte para poder entrar o si el coordinador es buena onda podrás colarte. Al frente de las canchas hay barras de calistenia, lugar donde no puedes pasar sin antes quitarte la polera y hacer un pullover.
 * Para las canchas es simple: vas a la oficina de Daisy Mendieta cualquier lunes siempre que esté en su oficina fuera de horario de almuerzo y con júpiter saturno y urano alineados y pides una hora, porque no puedes hacerlo por teléfono porque quisieras que las cosas funcionaran más fácil, pero no es así nemo ~~o pasas por un hoyo de la reja y juegas a la pelota a lo maldito~~.
-* Si quieres jugar voleibol playa, puedes pedir un balón en la ventanilla del gimnasio a uno de los auxiliares.
+* Si quieres jugar voleibol playa, puedes pedir un balón en la ventanilla del gimnasio a uno de los auxiliares (con cuidado sí, casi siempre hay caca de gato y/o perro enterradas en la arena XD).
 * Los camarines están o repletos o completamente vacíos, según si estás en horario de clases de EFI o algún deportivo, depende de tu team ver esto. Cuida las duchas, ya que muchos somos como Tom Hanks en El Terminal y usamos la U como casa, comedor y baño y sin una ducha disponible la U quedará como sala de séptimo básico.
 * Si están en clases, taller o deportivo de voleibol, NO PASES POR LA CANCHA, o el profe Bugueño te dará un sermón a ti y a los pobres e inocentes alumnos.
 
 
 **Biblioteca**
-* Puedes pedir libros prestados. Es de mucha ayuda si quieres ejercitar con el Stewart para mate, el tan aclamado Física Universitaria o para leer Kafka bajo la lluvia con un café latte y jazz de fondo acurrucado a tu gato. También hay cartas inglesas, españolas, ajedrez, damas, juegos de mesa, notebooks y accesorios como mouse o audífonos.
+* Puedes pedir libros prestados. Es de mucha ayuda si quieres ejercitar con el Stewart para mate, el tan aclamado Física Universitaria (Sears Zemansky) o para leer Kafka bajo la lluvia con un café latte y jazz de fondo acurrucado a tu gato. También hay cartas inglesas, españolas, ajedrez, damas, juegos de mesa, notebooks y accesorios como mouse o audífonos.
 * No olvides revisar el período de préstamo. Si no entregas un libro de alta demanda por un día de retraso vay a tener que pagar 200 100 lucas. Algunos libros pueden renovarse hasta dos veces.
 * También se pueden reservar salas de estudio por bloques, como el NOAC siempre para el período de certámenes se llenan.
 * Al parecer se pueden reservar juegos de pleteichon tre.
+* Se pueden ver películas con volumen bajo, hay un catálogo bien amplio para demostrarle al mundo al cinéfilo pretencioso dentro de tí.
 * Hay dos tipos de auxiliarxs en la biblioteca, lx pesao que toda su vida ha sido un infierno y por eso quiere que sufras con él, y lx simpático que siempre está dispuesto a resolver tus dudas. Es tu trabajo identificar cuál es cuál.
 
 
 **Sala Pasta**
-* Entre las salas A y la cancha de Calistenia se encuentra la sala pasta, maravilloso lugar destinado exclusivamente a dormir, comer, jugar y jugar de nuevo :D afuera hay taca-taca y una máquina de arcade donde tu mami no va a estar hinchándote con el pantalón.
+* Entre las salas A y la cancha de Calistenia se encuentra la sala pasta, maravilloso lugar destinado exclusivamente a dormir, comer, jugar y jugar de nuevo :D, Hay una máquina arcade de la Geek USM donde puedes retar a tus amigos a un combate épico de Street Fighter 3 y llorar cuando te saquen la mierda y no te salga el Daigo parry.
+    * A veces la máquina se clausura pq los vividítos no saben tratarla bien y creen que por apretar más fuerte los botones van a pegar más, no sea aweonao.
 * A veces, adentro hay un cabro que presta juegos de mesa ^^
+* No importa cuándo vayas, siempre huele a mierda.
 
 
 **FabLab**
-* Detrás de la sala pasta está el FabLab, un laboratorio abierto a cualquier estudiante que quiera imprimir cosas en 3D con filamento plástico, usar la maquinaria para cortar madera, entre otras cosas.
+* Detrás de la sala pasta está el ~~FapLab~~ FabLab, un laboratorio abierto a cualquier estudiante que quiera imprimir cosas en 3D con filamento plástico, usar la maquinaria para cortar madera, entre otras cosas.
 * Para manipular la máquina debes pedirle ayuda a los ayudantes, pero si quieres hacerlo por ti mismo puedes solicitar la capacitación express para hacer tu propio amiibo sin morir en el intento.
 
 
@@ -366,18 +369,18 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 
 **Departamentos**
-    * Informática
-        * Subiendo al segundo piso puedes pasar por un puente, el cual te llevará al maravilloso Departamento de Informática, el olimpo de los profesionales a cargo de ~~rajarte~~ hacer tu estancia en la Universidad más amena.
-        * Muchas recorrecciones de pruebas (de carrera) deben hacerse ahí, si no es en la oficina de los profes al lado del LDS.
-    * Física
-        * Entrando a la Universidad por El Pinar, a la izquierda se encontrarán las oficinas del Departamento de Física de la Universidad, entre las que destaca Paola Lazcano, actual coordinadora de las primeras físicas y famosísima por anular controles con lápiz mina y descontar puntos por mirarla fea (le pasó a un amigo de un amigo de un amigo mío).
-    * Matemática
-        * Siguiendo por el pasillo del Departamento de Física, o bien entrando por el pasillo exterior de las A, está el Departamento de Matemática. Al igual que con los otros Departamentos, acá deberás venir si quieres ~~llorar por puntos~~ recorregir tus controles y certámenes.
-        * El 2019-1 no avisaron de la recorrección del global por correo, por lo que los afortunados que escucharon y corrieron la voz pudieron salvarse (no fui uno de ellos :( )
+* Informática
+    * Subiendo al segundo piso puedes pasar por un puente, el cual te llevará al maravilloso Departamento de Informática, el olimpo de los profesionales a cargo de ~~rajarte~~ hacer tu estancia en la Universidad más amena.
+    * Muchas recorrecciones de pruebas (de carrera) deben hacerse ahí, si no es en la oficina de los profes al lado del LDS.
+* Física
+    * En el nuevo edificio K, se encontrarán las oficinas del Departamento de Física de la Universidad, entre las que destaca Paola Lazcano, actual coordinadora de las primeras físicas y famosísima por anular controles con lápiz mina y descontar puntos por mirarla fea (le pasó a un amigo de un amigo de un amigo mío).
+* Matemática
+    * Siguiendo por el pasillo del Departamento de Física, o bien entrando por el pasillo exterior de las A, está el Departamento de Matemática. Al igual que con los otros Departamentos, acá deberás venir si quieres ~~llorar por puntos~~ recorregir tus controles y certámenes.
+    * El 2019-1 no avisaron de la recorrección del global por correo, por lo que los afortunados que escucharon y corrieron la voz pudieron salvarse (no fui uno de ellos :c )
 
 
 **Sansanito**
-* Por el costado de El Pinar, al frente del Quiosco Díaz Sanos, está el Sansanito. Clínica N#1 de Latinoamérica y especializada en agüitas de yerba y parches curita.
+* Por el costado de El Pinar, al frente de la cancha de Futbol, está el Sansanito. Clínica N#1 de Latinoamérica y especializada en agüitas de yerba y parches curita.
 * Si te lesionaste jugando a la pelota o en un deportivo, puedes ir y te corre el seguro escolar, pudiendo atenderte en el Barros Luco (no el sandwich, ni el expresidente, el hospital).
 * A un amigo le dio una contractura muscular por jugar a la pelota con el cuerpo helado. Le inyectaron un relajante por Detroit. Calentar no es un juego. Winners don’t use drugs.
 * También ofrecen atención dental y psicológica, aunque de este último se satura muy rápidamente. Si necesitas hora (o sesiones mensuales) tienes que ir lo antes posible (en abril ya está todo reservado) (paro por salud mental 2019).
@@ -387,11 +390,8 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 * Si bien SIGA no es una instalación física dentro de la U, sí estará la mayor parte del tiempo contigo (como un ex tóxic@ o una espinilla ciega).
 * Puedes ver de manera online tu avance curricular, tus convalidaciones de ramos, emitir certificados (para después retirarlos en RREE), ver tus deudas, tomar ramos y ver tu horario.
 * En período de toma de ramos se cae seguido ~~líderes en ciencia y tecnología be like~~.
+    * Ahora es peor, ya que como no se usa prioridad, la toma de ramos es por orden de llegada, así que estarás peor que en punto ticket para poder agarrar ramo con el profe que quieras.
 
-<div class = "text-center">
-    <img    src="images/universidad/marley-vs-diazsanos.png" 
-            alt="Marley versus Diaz Sanos">
-</div>
 
 
 

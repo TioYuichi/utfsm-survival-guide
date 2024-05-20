@@ -25,7 +25,7 @@ folder: universidad
 
 *	**¿Los horarios de ayudantía de mate son fijos o después cambian? Tengo un tope ¿Debo preocuparme?** 
 
-	Por lo general son fijos, incluso se realizan evaluaciones en ellos (controles y a veces certámenes dependiendo del ramo). **Esos bloques son importantes, por precaución evita topes.**
+	Por lo general son fijos, incluso se realizan evaluaciones en ellos (controles y a veces certámenes dependiendo del ramo). **Esos bloques son importantes, por precaución evita topes en las ayudantías.**
 
 	En caso de ser necesario siempre puedes ir solo a los controles de mate y no ir a las ayudantías, pero igual es recomendable tener el contenido que pasaron ese día (apaña caleta.) Eso sí, **implica que vas a tener que ser un más autodidacta al momento de estudiar.**
 
@@ -37,7 +37,7 @@ folder: universidad
 
 *	**El profe no llegó a clase. ¿Qué procede?**
 
-	En caso de la inasistencia de un profesor a clases, los alumnos deben generar una lista de asistencia que debe ser entregada de la docencia correspondiente. Si esto se repite muy seguido, proceder con el protocolo de denuncia
+	En caso de la inasistencia de un profesor a clases y que éste no avisara previamente por correo, los alumnos deben generar una lista de asistencia que debe ser entregada de la docencia correspondiente. Si esto se repite muy seguido, proceder con el protocolo de denuncia.
 
 *	**¿Todos los ramos que son asignatura libre son sin pre-requisitos?**
 
@@ -57,7 +57,7 @@ folder: universidad
 
 	A diferencia de otras carreras, las cuales sólo pueden conectarse a 2 redes, los informáticos pueden acceder a 3:
 
-	* **Estudiantes_USM**: En android, escribe tu correo @sansano comonombre de usuario, y la contraseña de dicha cuenta como contraseña de red. Selecciona el cifrado EAP.
+	* **Estudiantes_USM**: En android, escribe tu correo @usm.cl como nombre de usuario, y la contraseña de dicha cuenta como contraseña de red. Selecciona el cifrado EAP.
 
 	* **DI-Alumnos**: En el LDS estará habilitada esta red. En Android, escribe tu correo @alumnos.inf como nombre de usuario, y la contaseña de dicha cuenta como contraseña de red. Selecciona el cifrado EAP.
 
@@ -85,7 +85,7 @@ folder: universidad
 
 *	**¿Campus Santiago, Vitacura, San Joaquín?**
 
-	Por temas administrativos, la sede San Joaquín y la sede Vitacura conforman el Campus Santiago, por lo que muchas veces queda la embarrá porque San Joaquín está en paro y Vitacura no o porque ambos están en paro y alguno se quiere bajar. Ten cuidado al tomar ramos, no vayas a tomar uno de Vitacura.
+	Por temas administrativos, el campus San Joaquín y la sede Vitacura conforman el Campus Santiago, por lo que muchas veces queda la embarrá porque San Joaquín está en paro y Vitacura no o porque ambos están en paro y alguno se quiere bajar. Ten cuidado al tomar ramos, no vayas a tomar uno de Vitacura.
 
 *	**¿Qué es CDC, CF y CONFEUSAM?**
 	
