@@ -8,7 +8,7 @@ toc: false
 
  <div class="text-center">
     <img src="images/manual_logo.png" alt="Y aquí pondría mi logo SI TUVIERA UNO" width="400px" height="auto" style="margin-left:10%;">
-    <h2>Manual de supervivencia para informáticos USM</h2>
+    <h2>Manual de supervivencia para informáticos USM Reworked!</h2>
 </div>
 
 # Introducción
@@ -26,9 +26,12 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
 	Bienvenidos sansanos y prepare your anus
 </div>
 
-{% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican.<br/><br/>
-Link al [manual original][1]" %}
+{% include note.html content="Esta versión del documento es un fork del manual original, con ciertas ediciones y recomendaciones personales de mi parte, además de actualizaciones necesarias (habían algunos ramos con profes que ya no existían o cosas que ya no aplicaban, etc). Este rework servirá tanto para l@s mechones/as como para los sansanos ya grandes, entregando consejos y ayudas para esta gran aventura que es la carrera universitaria de Ingeniería Civil Informática en la USM, basados en mi propia experiencia y en la de mis amigos, espero que mis consejos les sirvan y disfruten este viaje!<br><br>
+De todas formas, aquí está el link al [manual original][1] " %}
+
+{% include note.html content="Existe otro fork alternativo de unos amigos míos que también les podría servir, tiene algunas actualizaciones de fechas hasta el semestre 4, el link es [este][2]" %}
 
 [1]: https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit
+[2]: https://zer0-creativity.github.io/utfsm-survival-guide/
 
 {% include links.html %}

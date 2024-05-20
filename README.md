@@ -1,0 +1,1 @@
+El comando para ejecutar la página localmente es: bundle exec jekyll serve
