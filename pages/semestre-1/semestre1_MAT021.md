@@ -42,33 +42,43 @@ Como referencia, te sentirás [así][1].
 10. **Polinomios**: Álgebra de polinomios, Raíces, Teorema fundamental del Álgebra, Funciones polinomiales y racionales, Algoritmo de división, Teoremas para la obtención de raíces, Descomposición en fracciones parciales.
 
 ## Consejos
-* Ante cualquier duda usa [Wolfram][2]. El sitio ya no te ayuda a realizar el ejercicio paso a paso **PERO** la app  móvil de wolfram está crackeada en internet y si lo hace. Saca tu hackerman interior y bájala 100% rial true 1 link full HD con marcianito a 60fps.
+* Esta es de las pocas universidades que no requieren asistencia en estos ramos, si tu profe es penca o no te gusta cómo explica, busca otro y anda a sus clases nomás, los horarios de los otros profesores los encuentras en SIGA.
+* Ante cualquier duda usa [Wolfram][2] o [Photomath][6]. Ya no te ayuda a realizar el ejercicio paso a paso **PERO** las apps móviles de wolfram y photomath están crackeadas en internet y esas versiones sí lo hacen, así que saca tu hackerman interior y bájala 100% rial true 1 link full HD con marcianito a 60fps.
 * [Aquí][3] hay apuntes y controles.
 * **Cada 2 o 3 años preguntan límites por definición. Tratar de entender como funcionan ya que si aprenden son puntos regalados que nadie nunca saca.**
 * Aprender l'hopital antes de tiempo es bueno para ejercicios de límites, aunque no lo puedan usar en la prueba les sirve para saber a qué resultado llegar.
-* Si wolfram no te ayuda, [Symbolab][4] te enseña el paso a paso ideal para aprender a derivar.
+* Si wolfram o photomath no te ayudan, [Symbolab][4] te enseña el paso a paso ideal para aprender a derivar.
 * Hay una [calculadora de derivadas][5] que sirve bastante.
-* Siempre estudiar Ayudantías y talleres para los certámenes, mayoría de veces entran los mismos ejercicios o muy similares.
+* Siempre estudiar Ayudantías y talleres (SOBRETODO LOS TALLERES) para los certámenes, mayoría de veces entran los mismos ejercicios o muy similares.
 
 ## Comentarios de alumnos
 
-* Tarde o temprano llegarás a un video de [Unicoos][6] en youtube, amarás al profe y escucharás comentarios como "le doy mil hijos" #NosVemosEnClases. Unicoos is love, unicoos is life.
+* Los canales de YouTube que más se recomiendan son JulioProfe, Unicoos y Matefácil, pero para Mate I es por lejos el mejor el Profe Alex, gloria suprema a ese Dios.
     
 * Guerrero: Puede leer, escribir, hablar de la materia y hacer cálculos matemáticos al mismo tiempo. Si van a su clase más les vale que sepan escribir rápido.
+
 * Bahamondes
     * "git gud scrub".
     * "ustedes son el peor paralelo en la historia del ramo".
 
-* Escanilla
-    * la mitad de la clase son charlas de USM vs U de Chile, la otra mitad se queja de la enseñanza media.
-    * Lleva cojín para dormir.
-    * Siéntate adelante si quieres escuchar.
+* Pablo González
+    * God, carrea de aquí hasta Mate IV.
+    * Este viejo cachondo escribe pizarras como un Toro y sin usar pastillas, haga click [aquí][7] para ver cómo. 
+
+* Daniela Araya
+    * Falta caleta y su clase consiste en leer el PPT.
+    * Unos dicen que es buena y otros que es mala, está 50/50.
 
 * Nicolé
     * Si eres de ejercitar más que leer, Nicolé Geyssel es la luz
     * Tiene videos en YouTube de complemento y cálculo que pueden carrearte el ramo
 
-* Tomar taller con Victor Valdebenito es buena idea, explica bien los ejercicios
+* Ruggiero
+    * "Si no sabe esto, vuelva a la Media"
+    * Hay gente a la que le gustan sus clases, no entiendo cómo.
+
+* Tomar taller con Victor Valdebenito es buena idea, explica bien los ejercicios.
+    * Lo lamento por las generaciones futuras pero Valdebenito se tuvo que ir de la U, lo vamos a extrañar :c
 
 
 **Texto guía**:  
@@ -80,10 +90,11 @@ Como referencia, te sentirás [así][1].
 
 [1]: https://www.facebook.com/David.R.G.Lopez/videos/1821185477964938/
 [2]: https://www.wolframalpha.com/
-[3]: https://sites.google.com/site/apuntesycontroles/
+[3]: https://usmcl-my.sharepoint.com/personal/cristobal_montecino_sansano_usm_cl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcristobal_montecino_sansano_usm_cl%2FDocuments%2FAlejandria%20Archivos%2FSemestre%2001%2FMAT021%20-%20Matematicas%20I&ga=1
 [4]: https://www.symbolab.com/
 [5]: https://www.calculadora-de-derivadas.com/
-[6]: https://www.youtube.com/user/davidcpv
+[6]: https://photomath.com
+[7]: https://media.licdn.com/dms/image/C5603AQGM1gIHoWfQPw/profile-displayphoto-shrink_200_200/0/1556898350821?e=2147483647&v=beta&t=GfYiO4IwSWroY-8-kTDv40MIKv7Jw1JNNi74erX4uCE
 
 
 {% include links.html %}
