@@ -9,10 +9,11 @@ folder: mydoc
 ---
 
 <div class = "text-center">
-    <img src="images/universidad/come_to_cs.png" alt="Come To CS">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CxGSnA-RTsA?si=DxylbYuoayC_N44U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class = "text-center">
-	Si es que no entiende algunas partes del meme, vuelva el siguiente semestre, saludos.
+    <br>
+	Si es que no entiende algunas partes del video, vuelva el siguiente semestre, saludos.
 </div>
 {% include links.html %}

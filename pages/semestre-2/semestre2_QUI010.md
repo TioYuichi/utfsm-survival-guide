@@ -40,7 +40,6 @@ folder: semestre-2
 * Record de jóvenes en una clase: 260.
 * **COPIAR**
 * **No descuentan las malas, el certamen es de solo alternativas. Si no sabes la respuesta, tirar al azar. Preferencias por las C.**
-* Asencio Master Race :heartpulse:.
 * Si te toca a las 11:45, generalmente el profe te deja salir antes para almorzar tranquilo.
 * Laboratorio:
     * Sé puntual para el lab, si te atrasas no dejan entrar y se reprueba por inasistencia.
@@ -50,5 +49,7 @@ folder: semestre-2
     * Siempre con pantalones (largos), o no te dejarán pasar.
 * Regla de 3.
 * Consigan buen promedio en controles (80+), te hacen pasar el ramo.
+* Se puede pasar aprobando sólamente un certámen.
+* Ramo meme ramo meme.
 
 {% include links.html %}

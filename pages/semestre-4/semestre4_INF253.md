@@ -39,7 +39,7 @@ folder: semestre-4
 
 
 ## Comentarios de alumnos
-
+* "Solo C, que nada C..."
 * TODO DEPENDE DEL LENGUAJE
 * Imaginate a progra pero con 5 lenguajes diferentes en 4 paradigmas distintos y comprimido en 1 semestre. Comience el juego.
 * (((((((((((((()()()(((((((((((((Scheme)()))())()())))()))))()()))))())))))(((()()())()))))()()()()())))))(()))(())()())))()()

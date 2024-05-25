@@ -4,13 +4,13 @@ keywords: fis, fisicaI
 last_updated: August 15, 2020
 summary: "El estudiante complementa conceptos físicos y herramientas matemáticas, utilizándolas en la
 operatoria para la resolución de problemas. Desarrolla y potencia habilidades transversales, tales
-como: trabajo colaborativo, resolución de problemas, lectura comprensiva y planificación de su
+como: trabajo colaborativo, lectura comprensiva y planificación de su
 tiempo de estudios."
 sidebar: main_sidebar
 permalink: semestre1_FIS100.html
 folder: semestre-1
 ---
-Método IDEA aka: Física for dummies.
+Método IDEA, aka Física for dummies.
 
 
 ## Información General:
@@ -69,12 +69,13 @@ Método IDEA aka: Física for dummies.
 
 ## Consejos
 * Hay un [libro guía][1] que contiene la materia que pasarán, puedes estudiar algo específico desde ahí.
+* Apréndanse Vectores y Cifras significativas, es lo que más sirve para el futuro
 
 
 
 ## Comentarios de alumnos
+* Skipeable (Si hiciste el curso online).
 * "La profesora Lazcano no podrá hacer clases hoy debido a..."
-* La única cosa que sirve de este ramo son cifras significativas.
 * Se pasa solo.
 * Si no logró pasar, preocúpese.
 * Física PSU > Física 100

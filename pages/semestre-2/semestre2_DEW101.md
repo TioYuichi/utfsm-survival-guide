@@ -28,6 +28,7 @@ folder: semestre-2
 * Último rastro de infancia.
 * Se reprueba por inasistencia.
 * Pirámides humanas.
+* Coreografías de Acrosport con música.
 * Ver saltar a Vitagliano el caballete \>\>\>\>\>\> ALL
 
 <img src="images/semestre-2/efi.jpg" alt="collapse" height="auto">

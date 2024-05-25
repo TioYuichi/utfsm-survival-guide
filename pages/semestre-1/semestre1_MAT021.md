@@ -52,6 +52,7 @@ Como referencia, te sentirás [así][1].
 * Siempre estudiar Ayudantías y talleres (SOBRETODO LOS TALLERES) para los certámenes, mayoría de veces entran los mismos ejercicios o muy similares.
 
 ## Comentarios de alumnos
+* **NO TOMEN EL LAB POR LA MIERDA!!!!**
 
 * Los canales de YouTube que más se recomiendan son JulioProfe, Unicoos y Matefácil, pero para Mate I es por lejos el mejor el Profe Alex, gloria suprema a ese Dios.
     
@@ -85,7 +86,7 @@ Como referencia, te sentirás [así][1].
 ⠀⠀⠀⠀Stein, S., Barcellos, A. *Cálculo y Geometría Analítica*, Editorial McGraw-Hill, 1995.  
 **Texto de referencia**:  
 ⠀⠀⠀⠀Stewart, J. *Cálculo*, Grupo Editorial Iberoamérica, 1994.
-
+<img src="images/semestre-2/cuadratica.jpg" alt="collapse" height="70%">
 
 
 [1]: https://www.facebook.com/David.R.G.Lopez/videos/1821185477964938/

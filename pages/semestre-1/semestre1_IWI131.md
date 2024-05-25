@@ -17,7 +17,7 @@ folder: semestre-1
 * Prerrequisitos: No tiene \(aunque te podría servir llevar un notebook\).
 * Eje Formativo: Ciencias de la Ingeniería.
 * Semestre en que se dicta: Par e Impar.
-* [Sitio Oficial][1].  
+* [Sitio Oficial (Aquí hay certamenes anteriores, es bastante útil) ][1].  
 
 ## La asignatura
 * Clases de cátedra \(En la sala de clases\)
@@ -39,14 +39,15 @@ La ayudantía en laboratorio es la instancia para llevar a cabo el "aprender - h
 * Archivos de Texto.
 
 ## Comentarios de alumnos
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-1/pasalo_todo_a_string.png" width="70%">
 * Print "Hola Mundo"  
 * for alumnos in clase:  
 ⠀⠀⠀⠀print("nota_final = 80")⠀⠀⠀⠀⠀~~#Solo80quemediocre~~
 * Warning: turtle no entra en el primer certamen ;-;
 * Godoy es amor <3
-* En este [enlace][2] están los certámenes resueltos
 * NUNCA COPIAR EN LOS LABS! SE DAN CUENTA TARDE O TEMPRANO.
 * desde 2019-1 que utilizan Python 3.x, por lo que el ramo sufrió algunos cambios.
+* Aníbal God.
 
 ## Enlaces de interés
 * [Profesores y Coordinadores][3].
@@ -60,7 +61,6 @@ La ayudantía en laboratorio es la instancia para llevar a cabo el "aprender - h
 
 
 [1]: http://progra.usm.cl/
-[2]: https://ayudantiaprograusm.wordpress.com/
 [3]: http://progra.usm.cl/Profesores_y_coordinacion.html
 [4]: http://progra.usm.cl/Horarios_y_Salas.html
 <!-- [3] No actualizados [2019 - 2]-->

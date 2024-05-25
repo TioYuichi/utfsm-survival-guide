@@ -1,5 +1,5 @@
 ---
-title: Introducción a la Ingeniería [Intro][Progra 2]
+title: Introducción a la Ingeniería [Progra 0.5]
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: December 22, 2020
 tags:
@@ -28,13 +28,14 @@ folder: semestre-2
 6. Métodos de las Ingeniería. Resolución de problemas, comprensión del problema, modelos, leyes de comportamiento, plan de solución, estructuración de la solución, diagramas de bloques, realización, comprobación. El informe técnico, presentaciones, herramientas de presentación.
 
 ## Comentarios 
-
-* "Solo C, que nada C..."
-* "Mgrmgrmglrmgrlmgrlmglmmrlkmgrmrg estructura de datosdasdr" Albert 2015-2015
-* Oh god, matrices google D:
-* Proyectos for the win.
-* Se descuenta nota por errores de compilación y warnings Record actual: -140.
-* Hay gente que reprueba, no seas uno de ellos.
+* Esto aplicó para 2022-2
+    * Proyectos for the win.
+    * El ramo constó de crear una página usando un framework.
+    * Cosas que aprendimos del profe: 0.
+    * Cosas que aprendimos de los ayudantes: Use Bootstrap.
+    * Si quieres tirarte a ayudante, este ramo es farmear plata.
+    * Desde ya anda viendo compañeros/amigos que sepas que te van a ayudar
+    * Hay gente que reprueba, no seas uno de ellos.
 
 
 

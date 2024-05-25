@@ -13,80 +13,54 @@ folder: semestre-3
 
 ## Información general:
 
-- Sigla: INF-152.
-- Nivel de dificultad: antes 6/10 ... 4/10 posible - 7/10 a futuro - 8/10 actualmente.
-- Créditos USM: 3.
-- Créditos SCT: 5.
-- Eje formativo: Ciencias de la Ingeniería - Fundamentos de la Informática.
-- Semestre en que se dicta: Impar.
-- Prerrequisitos: MAT-021 y IWI-131.
+* Sigla: INF-152.
+* Nivel de dificultad: antes 6/10 ... 4/10 posible - 7/10 actualmente.
+* Créditos USM: 3.
+* Créditos SCT: 5.
+* Eje formativo: Ciencias de la Ingeniería - Fundamentos de la Informática.
+* Semestre en que se dicta: Impar.
+* Prerrequisitos: MAT-021 y IWI-131.
 
 ## Contenidos:
 
-- Conjuntos, funciones y relaciones.
-- Lógica de proposiciones y de predicados.
-- Técnicas de demostración.
-- Conteo básico.
-- Árboles.
-- Grafos no dirigidos.
-- Grafos dirigidos.
-- Estrategias transversales de los árboles y grafos.
+* Conjuntos, funciones y relaciones.
+* Lógica de proposiciones y de predicados.
+* Técnicas de demostración.
+* Conteo básico.
+* Árboles.
+* Grafos no dirigidos.
+* Grafos dirigidos.
+* Estrategias transversales de los árboles y grafos.
 
 ## Comentarios de los alumnos:
 
-- Teorema de sistemas: Mientras más compañeros tengan la misma respuesta, más incrementa la probabilidad de que todos la tengan mala.
-
-- Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo.
-
-- ESTÚPIDA MI PRIORIDAD IDIOTA.
-
-- RIP.
-
-- RIP X2.
-
-- RIP X3.
-
-- RIP X4.
-
-- Warning: Don't try this at home.
-
-- Don't try this at home.
-
-- ¿Buscas un ramo que puedas repetir constantemente? Bienvenido.
-
-- Pauta: *Queda propuesta la resolución del problema.*
-
-- *Las pautas dices puras weas y siempre están malas.*
-
-- Para toda respuesta buena, la pauta siempre tendrá una mejor.
-
-- Evitar a toda costa a C. Lobos (Deuman)
-
-  - Si el profe está riéndose de ti en los certámenes es normal.
-
-  - Cualquier similitud con el guatón de la fruta es mera coincidencia.
-
-  - Según Lobos *lo de arriba está abajo e igual está malo*.
-
-  - Lobos: Algo está bien o mal no hay cosas a medias.
-
+* Es posible pasarlo sin ir a clases, sólo lee bien y estudia los PPT.
+* Teorema de sistemas: Mientras más compañeros tengan la misma respuesta, más incrementa la probabilidad de que todos la tengan mala.
+* Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo Pseudocódigo.
+* ESTÚPIDA MI PRIORIDAD IDIOTA.
+* RIP.
+* RIP X2.
+* RIP X3.
+* RIP X4.
+* ¿Buscas un ramo que puedas repetir constantemente? Bienvenido.
+* Pauta: *Queda propuesta la resolución del problema.*
+* *Las pautas dice puras weas y siempre están malas.*
+* Para toda respuesta buena, la pauta (y Lobos) siempre tendrán una mejor.
+* Evitar a toda costa a C. Lobos (Deuman)
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-3/Lobos.png" width="70%">
+  * Si el profe está riéndose de ti en los certámenes es normal.
+  * Cualquier similitud con el guatón de la fruta es mera coincidencia.
+  * Según Lobos *lo de arriba está abajo e igual está malo*.
+  * Lobos: Algo está bien o mal no hay cosas a medias.
     Alumno: pero profe su pauta esta mala.
-
     Lobos: Entonces está casi bien :D.
-
-  - "Cada semestre reprueba más gente pero es culpa de la generación" C. Lobos 2015-2
-
-  - *Son la peor generación que he tenido* - C. Lobos cada semestre.
-
-  - Se le daría a C Lobos un premio por sus penes en 3D pero no es posible ya que compite con los penes de [CC].
-
-  - Aunque pienses que es algo con sentido, C. Lobos buscará de alguna manera ponerte 0
-
-  - Nunca más comprarás sal Lobos.
-
-  - Si no te quedaste dormido en la clase de Lobos, nunca has tenido clases con él.
-
-  - Todos saben que el 3er certamen es el más fácil, a menos que el profe desee lo contrario (ver 2016-1).
+  * "Cada semestre reprueba más gente pero es culpa de la generación" C. Lobos 2015*2
+  * *Son la peor generación que he tenido* - C. Lobos cada semestre.
+  * Se le daría a C Lobos un premio por sus penes en 3D pero no es posible ya que compite con los penes de [CC].
+  * Aunque pienses que es algo con sentido, C. Lobos buscará de alguna manera ponerte 0
+  * Nunca más comprarás sal Lobos.
+  * Si no te quedaste dormido en la clase de Lobos, nunca has tenido clases con él.
+  * Todos saben que el 3er certamen es el más fácil, a menos que el profe desee lo contrario (ver 2016-1).
 
 
 ~~~
@@ -104,19 +78,13 @@ Procedure ed (alumno):
 	endwhile
 ~~~
 
-- ~~El ramo es bonito pero incomprendido u______u~~
-
-- Improvisar también es un talento.
-
-- Igual se puede pasar solo con controles... Kappa //
-
-- Se puede pasar reprobando el global :x.
-
-- La profe naty es un amor, pero igual me rajó :c
-
-- C3 definitivo.
-
-- Isomorfismo, +20 puntos.
+* ~~El ramo es bonito pero incomprendido u______u~~
+* Improvisar también es un talento.
+* Igual se puede pasar solo con controles... Kappa //
+* Se puede pasar reprobando el global :x.
+* La profe maripi es un amor (Aunque ojo, un alumno casi reprueba porque no le revisó una pregunta y le faltaba todo ese puntaje XD)
+* C3 definitivo.
+* Isomorfismo, +20 puntos.
 
 > *Estimad@s.*
 >
@@ -126,15 +94,9 @@ Procedure ed (alumno):
 
 > CLAUDIO LOBOS YAÑEZ. 1-sep-2015 (NEVER FORGET)
 
-- Hagan las cosas que revisa lobos como a él le gusta que las hagan, no quieren tener 0 puntos porque "hizo un algoritmo que hace lo que yo quiero que haga, pero no lo hace como yo quiero que lo haga".
-
-- Resumen de lo de arriba, POR FAVOR NO INSCRIBIR EL RAMO, ALTA PROBABILIDAD DE RAV.
-
-- -Con la profe Natalia DICEN que nadie se ha echado el ramo. (Pero igual te lo echarás).
-
-- El ayudante vale tula, atte: El ayudante.
-
-- Observe el siguiente ejercicio:
+* Hagan las cosas que revisa lobos como a él le gusta que las hagan, no quieren tener 0 puntos porque "hizo un algoritmo que hace lo que yo quiero que haga, pero no lo hace como yo quiero que lo haga".
+* El ayudante vale tula, atte: El ayudante.
+* Observe el siguiente ejercicio:
 
   <div class='text-center mb-3'>
       <img src="images/semestre-3/discretas-meme2.jpg" alt="collapse" height="auto">
@@ -155,9 +117,6 @@ Procedure ed (alumno):
 > 
 > -> Anónimo, post cierre semestre online 2019 (no se conecten a la misma red WIFI, RIP)
 
-<div class='text-center mb-3'>
-    <img src="images/semestre-3/discretas-meme1.jpg" alt="collapse" height="auto">
-</div>
 
 
 {% include links.html %}

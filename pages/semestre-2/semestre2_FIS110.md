@@ -32,25 +32,20 @@ folder: semestre-2
 * Gravitación.
 
 ## Comentarios 
-
-* Se toma con don guada (es la luz).
-* Belisaurio no te aprueba con 54 :'( (penita).
-* Belisaurio te putea con una sonrisa de psicópata ;-;
-* Belisaurio tiene un hoyo negro en el ojo derecho.
-* Belisaurio Overpowereo el ramo ktm.
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-2/cajales.png" width="70%">
+* Se toma con Cajales (es la luz).
+* Si no te tocó con Cajales, cólate a sus clases.
+* Si no te gusta Cajales, retírese de la U.
+* Boccardo y Guillermo Gómez (GG) también carrean.
+* Alejandra León sirve si te gusta aprender a la fuerza con ejercicios y haces las tareas que manda XD.
+* Mario Miranda también enseña bien la teoría.
 * Método activo VALE TULAAAAAA (pero igual se pasa bien).
-* Si toma este ramo con Max Rivera (No lo haga). Prepárese para Fis 120 en 110.
 * Si te vas a global, estudia de los certámenes del mismo semestre y las guías, siempre aparecen preguntas repetidas.
 * Haz todas las tareas, siempre sale una pregunta de tarea en el control.
 * Junta todo el odio, el agua y la pera que puedas men, porque estoy por presentarte algo llamado Lab de física...
 Laboratorio:
-    <img id="right-img" src="{{ site.baseurl }}/images/semestre-2/fis_110.jpg" width="30%">
     * Antes se decía que los alumnos recibirán puntos por dar títulos creativos, pero esto ya no se aplica debido a los weones que comenzaron a usar títulos como "mi primer periodo", "siente el choque", "la que cuelga", etc. Si fuiste uno de ellos, desde aquí te saludo valiente guerrero (era un 0 garantizado xd).
-    * **No inscribir en bloques 1 y 2, ni al primer lab de la semana**.
-    * **Si se están echando el Lab**, vayan el último día a hablar con Maximiliano Araya. Les hará limpiar su oficina o construir algo con cosas recicladas a cambio de aprobar ;) (eso decían, ver reprobados con 53 del 2016-1 no más).
-    * Antiguamente daban puntos por escribir el informe en LaTeX, pero ahora todo es en word y si el ayudante te deja, en PDF.
-    * REY MAXO LA ANACONDA HUMANA \>\>\>\>\>\> ALL.
-* Belisario mandó tarea.
+    * **No inscribir en bloques 1 y 2, ni al primer lab de la semana, esto es porque NO PUEDES FALTAR**.
 
 
 
